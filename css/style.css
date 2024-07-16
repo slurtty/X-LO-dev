@@ -95,49 +95,29 @@ main{
 }
 
 
-footer{
+.footer-elements{
   display: flex;
   flex-direction: column;
-
+  justify-content: center;
+  align-items: center;
+  gap: 35px ;
 }
-
 
 .footer-logo{
+  font-size: 40px;
+  font-weight: 800;
+}
+
+
+.cart-text{
   font-size: 35px;
-  font-weight: 700;
+  font-weight: 750;
 }
 
-
-.socials{
-  
+.cart-card-text{
+  font-size: 25px;
+  font-weight: 600;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
